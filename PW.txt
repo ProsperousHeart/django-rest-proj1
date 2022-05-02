@@ -1,0 +1,2 @@
+superuser email:  krk.ph.rr+django_rest_course@gmail.com
+password:  Password123
