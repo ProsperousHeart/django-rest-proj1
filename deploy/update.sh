@@ -2,7 +2,8 @@
 
 set -e
 
-PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+# PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+PROJECT_BASE_PATH='/usr/local/apps/django-rest-proj1'
 
 git pull
 $PROJECT_BASE_PATH/env/bin/python manage.py migrate

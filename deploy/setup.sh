@@ -3,9 +3,10 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/CHANGEME.git'
+PROJECT_GIT_URL='https://github.com/ProsperousHeart/django-rest-proj1.git'
 
-PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+# PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+PROJECT_BASE_PATH='/usr/local/apps/django-rest-proj1'
 
 echo "Installing dependencies..."
 apt-get update
